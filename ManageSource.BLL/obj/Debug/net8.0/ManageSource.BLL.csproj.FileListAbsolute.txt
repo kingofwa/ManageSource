@@ -1,0 +1,15 @@
+D:\ManageCloneSourceTree\ManageSource\ManageSource.BLL\bin\Debug\net8.0\ManageSource.BLL.deps.json
+D:\ManageCloneSourceTree\ManageSource\ManageSource.BLL\bin\Debug\net8.0\ManageSource.BLL.dll
+D:\ManageCloneSourceTree\ManageSource\ManageSource.BLL\bin\Debug\net8.0\ManageSource.BLL.pdb
+D:\ManageCloneSourceTree\ManageSource\ManageSource.BLL\bin\Debug\net8.0\ManageSource.DAL.dll
+D:\ManageCloneSourceTree\ManageSource\ManageSource.BLL\bin\Debug\net8.0\ManageSource.DAL.pdb
+D:\ManageCloneSourceTree\ManageSource\ManageSource.BLL\obj\Debug\net8.0\ManageSource.BLL.csproj.AssemblyReference.cache
+D:\ManageCloneSourceTree\ManageSource\ManageSource.BLL\obj\Debug\net8.0\ManageSource.BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\ManageCloneSourceTree\ManageSource\ManageSource.BLL\obj\Debug\net8.0\ManageSource.BLL.AssemblyInfoInputs.cache
+D:\ManageCloneSourceTree\ManageSource\ManageSource.BLL\obj\Debug\net8.0\ManageSource.BLL.AssemblyInfo.cs
+D:\ManageCloneSourceTree\ManageSource\ManageSource.BLL\obj\Debug\net8.0\ManageSource.BLL.csproj.CoreCompileInputs.cache
+D:\ManageCloneSourceTree\ManageSource\ManageSource.BLL\obj\Debug\net8.0\ManageSource.BLL.csproj.CopyComplete
+D:\ManageCloneSourceTree\ManageSource\ManageSource.BLL\obj\Debug\net8.0\ManageSource.BLL.dll
+D:\ManageCloneSourceTree\ManageSource\ManageSource.BLL\obj\Debug\net8.0\refint\ManageSource.BLL.dll
+D:\ManageCloneSourceTree\ManageSource\ManageSource.BLL\obj\Debug\net8.0\ManageSource.BLL.pdb
+D:\ManageCloneSourceTree\ManageSource\ManageSource.BLL\obj\Debug\net8.0\ref\ManageSource.BLL.dll

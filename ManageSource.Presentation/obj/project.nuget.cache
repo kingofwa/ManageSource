@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "nRkxyEjvkqEzwUayxOe5W8RP+otoCIKypOa8psUOkETQS9XUDV6fgBavfEc6czeFFgwW2xlpCPTgvMyA+s/Klw==",
+  "success": true,
+  "projectFilePath": "D:\\ManageCloneSourceTree\\ManageSource\\ManageSource.Presentation\\ManageSource.Presentation.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\VAN LE\\.nuget\\packages\\libgit2sharp\\0.30.0\\libgit2sharp.0.30.0.nupkg.sha512",
+    "C:\\Users\\VAN LE\\.nuget\\packages\\libgit2sharp.nativebinaries\\2.0.322\\libgit2sharp.nativebinaries.2.0.322.nupkg.sha512"
+  ],
+  "logs": []
+}

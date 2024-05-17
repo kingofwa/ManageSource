@@ -1,0 +1,14 @@
+D:\ManageCloneSourceTree\ManageSource\ManageSource\bin\Debug\net8.0-windows\ManageSource.exe
+D:\ManageCloneSourceTree\ManageSource\ManageSource\bin\Debug\net8.0-windows\ManageSource.deps.json
+D:\ManageCloneSourceTree\ManageSource\ManageSource\bin\Debug\net8.0-windows\ManageSource.runtimeconfig.json
+D:\ManageCloneSourceTree\ManageSource\ManageSource\bin\Debug\net8.0-windows\ManageSource.dll
+D:\ManageCloneSourceTree\ManageSource\ManageSource\bin\Debug\net8.0-windows\ManageSource.pdb
+D:\ManageCloneSourceTree\ManageSource\ManageSource\obj\Debug\net8.0-windows\ManageSource.GeneratedMSBuildEditorConfig.editorconfig
+D:\ManageCloneSourceTree\ManageSource\ManageSource\obj\Debug\net8.0-windows\ManageSource.AssemblyInfoInputs.cache
+D:\ManageCloneSourceTree\ManageSource\ManageSource\obj\Debug\net8.0-windows\ManageSource.AssemblyInfo.cs
+D:\ManageCloneSourceTree\ManageSource\ManageSource\obj\Debug\net8.0-windows\ManageSource.csproj.CoreCompileInputs.cache
+D:\ManageCloneSourceTree\ManageSource\ManageSource\obj\Debug\net8.0-windows\ManageSource.dll
+D:\ManageCloneSourceTree\ManageSource\ManageSource\obj\Debug\net8.0-windows\refint\ManageSource.dll
+D:\ManageCloneSourceTree\ManageSource\ManageSource\obj\Debug\net8.0-windows\ManageSource.pdb
+D:\ManageCloneSourceTree\ManageSource\ManageSource\obj\Debug\net8.0-windows\ManageSource.genruntimeconfig.cache
+D:\ManageCloneSourceTree\ManageSource\ManageSource\obj\Debug\net8.0-windows\ref\ManageSource.dll
